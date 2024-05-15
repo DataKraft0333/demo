@@ -1,3 +1,3 @@
 # Databricks notebook source
 # MAGIC %sql
-# MAGIC select timestamp(1)
+# MAGIC select timestamp(2)

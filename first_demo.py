@@ -1,3 +1,4 @@
 # Databricks notebook source
 # MAGIC %sql
-# MAGIC select timestamp(2)
+# MAGIC --move it to main
+# MAGIC select timestamp(5)
